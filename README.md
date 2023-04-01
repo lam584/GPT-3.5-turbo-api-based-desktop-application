@@ -13,3 +13,7 @@ Install-Package OpenAI-DotNet
 
 ![1](https://user-images.githubusercontent.com/107453273/229271882-a4ce1991-69cd-4e95-ab7c-06b76f691924.png)
 ![2](https://user-images.githubusercontent.com/107453273/229271887-432ddd02-5f88-463b-9721-8bdf3a357c8a.png)
+
+The following is a packaged desktop application that can be run directly：
+https://github.com/ls20vip/GPT-3.5-turbo-api-based-desktop-application/blob/main/GPT-3.5-turbo-api-plain%20text/pack.zip
+https://github.com/ls20vip/GPT-3.5-turbo-api-based-desktop-application/blob/main/GPT-3.5-turbo-api-bubble/pack.zip
