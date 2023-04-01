@@ -2,9 +2,10 @@ This project is based on the . For NET 8.0 development, you need to download the
 https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 You need to configure the key in the config .txt of the directory.
+
 ![image](https://user-images.githubusercontent.com/107453273/229271960-8c1804ea-7bcc-4d99-bc63-3d4c1fff5ce4.png)
 
-从 Nuget 安装包 OpenAI-DotNet。这是命令行中的方法：
+Install the package OpenAI-DotNet from Nuget. Here is the method from the command line:
 
 Install-Package OpenAI-DotNet
 
